@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88afd11c802cdf6449faf33ed6e4e3bd, type: 3}
+  m_Name: Level_3
+  m_EditorClassIdentifier: 
+  word: factor
+  answers: fact|frat|raft|fort|coat|cart|rota|craft|actor|factor|
+  validWords: fact|fart|frat|raft|afro|fort|coat|taco|cart|rota|facto|craft|croft|actor|factor|
